@@ -1,6 +1,6 @@
 # Reproducible Research: Practices and Tools
 
-Workshop at Compute Ontario Summer School, June 2025.
+Workshop at Compute Ontario Summer School, June 2026.
 
 ## Abstract
 
@@ -30,5 +30,5 @@ helpful</dd>
 ## Facilitators
 
 - Sarah Huber, UVic Research Computing <sahuber@uvic.ca>
-- Shahira Khair, UVic Libraries <skhair@uvic.ca>
+- Nick Rochlin, UVic Libraries <nrochlin@uvic.ca>
 - Drew Leske, UVic Research Computing <dleske@uvic.ca> 
